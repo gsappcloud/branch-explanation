@@ -1,2 +1,2 @@
-lets pretend this file represents a whole drupal install
+lets pretend this file represents a whole drupal INSTALL
 
